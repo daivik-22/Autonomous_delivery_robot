@@ -1,4 +1,4 @@
-# Autonomous Delivery Robot (ROS 2)
+# Autonomous Delivery Robot 
 
 A small-scale indoor delivery robot built on **ROS 2 (Humble)** and **Python 3.10+**, designed to autonomously ferry packages within confined spaces (e.g., apartment complexes, office buildings, campuses). This repository contains all source code, launch configurations, and tests needed to simulate and run the complete “Autobot” stack—from item loading via RFID to navigation, telemetry, health monitoring, and delivery confirmation.
 
